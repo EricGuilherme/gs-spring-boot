@@ -1,0 +1,113 @@
+2015-06-17 22:41:06,731 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-spring-boot:0.1.0 @ /Users/eric/Documents/gs-spring-boot/initial/pom.xml.
+2015-06-17 22:41:07,747 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /initial/src/main/java
+2015-06-17 22:41:07,748 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /initial/src/test/java
+2015-06-17 22:41:07,982 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-06-17 22:41:08,035 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-spring-boot:0.1.0 @ /Users/eric/Documents/gs-spring-boot/initial/pom.xml.
+2015-06-17 22:41:10,713 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-17 22:41:10,713 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-17 22:41:10,713 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-17 22:41:10,717 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-17 22:41:10,717 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-17 22:41:12,099 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-17 22:41:12,099 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-17 22:41:12,099 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-17 22:41:12,104 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-17 22:41:12,104 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-19 08:19:20,618 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-19 08:19:20,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-19 08:19:20,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-19 08:19:20,645 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-19 08:19:20,645 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-22 19:12:54,346 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:helloworld:1.0-SNAPSHOT @ /Users/eric/Documents/java-getting-started/pom.xml.
+2015-06-22 19:12:54,897 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloworld/src/main/java
+2015-06-22 19:12:54,902 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloworld/src/test/java
+2015-06-22 19:12:55,036 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-06-22 19:12:55,957 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:helloworld:1.0-SNAPSHOT @ /Users/eric/Documents/java-getting-started/pom.xml.
+2015-06-22 19:12:56,020 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:helloworld:1.0-SNAPSHOT @ /Users/eric/Documents/java-getting-started/pom.xml.
+2015-06-22 19:12:56,236 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-22 19:12:56,239 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/java-getting-started/src/main/resources
+2015-06-22 19:12:56,246 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-22 19:12:56,247 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/java-getting-started/src/test/resources
+2015-06-22 19:12:57,676 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-22 19:12:57,677 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-22 19:12:57,677 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-22 19:12:57,680 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-22 19:12:57,680 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-22 19:12:58,748 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:helloworld:1.0-SNAPSHOT @ /Users/eric/Documents/java-getting-started/pom.xml.
+2015-06-22 19:12:59,785 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-22 19:12:59,786 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/java-getting-started/src/main/resources
+2015-06-22 19:12:59,788 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-22 19:12:59,788 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/java-getting-started/src/test/resources
+2015-06-22 19:13:11,643 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-22 19:13:11,644 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/java-getting-started/src/main/resources
+2015-06-22 19:13:11,646 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-22 19:13:11,647 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/java-getting-started/src/test/resources
+2015-06-22 19:13:11,659 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-22 19:13:11,659 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-22 19:13:11,659 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-22 19:13:11,663 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-22 19:13:11,663 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:09:55,255 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-24 20:09:55,272 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/java-getting-started/src/main/resources
+2015-06-24 20:09:55,274 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-06-24 20:09:55,275 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/java-getting-started/src/test/resources
+2015-06-24 20:09:56,452 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:09:56,452 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:09:56,452 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:09:56,455 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:09:56,456 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:10:05,160 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:10:05,161 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:10:05,161 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:10:05,164 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:10:05,164 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:10:19,548 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:10:19,549 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:10:19,549 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:10:19,551 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:10:19,551 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:10:35,469 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:10:35,469 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:10:35,469 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:10:35,471 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:10:35,472 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:10:52,633 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:10:52,633 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:10:52,633 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:10:52,635 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:10:52,635 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:11:03,235 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:11:03,235 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:11:03,235 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:11:03,237 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:11:03,238 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:14:41,897 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:14:41,897 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:14:41,897 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:14:41,902 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:14:41,903 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:14:47,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:14:47,523 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:14:47,523 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:14:47,526 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:14:47,526 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:14:55,073 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:14:55,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:14:55,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:14:55,075 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:14:55,075 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:15:31,854 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:15:31,854 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:15:31,854 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:15:31,856 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:15:31,856 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:15:42,547 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:15:42,547 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:15:42,547 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:15:42,550 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:15:42,551 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
+2015-06-24 20:15:53,506 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:15:53,507 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:15:53,507 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/main/resources
+2015-06-24 20:15:53,509 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-24 20:15:53,510 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/eric/Documents/gs-spring-boot/initial/src/test/resources
